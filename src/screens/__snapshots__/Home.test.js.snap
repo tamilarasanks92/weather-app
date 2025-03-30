@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Fetch Weather Data should fetch weather data based on city 1`] = `[Function]`;
+
+exports[`Fetch Weather Data should render the component 1`] = `[Function]`;
