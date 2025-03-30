@@ -1,4 +1,8 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new Weather app project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+To run the application, please clone the application and add access key to variable **REACT_APP_ACCESS_KEY** in .env file to fetch api details.
+
+To get the access keys, please create and log into the account in [WeatherStack](https://weatherstack.com).
 
 # Getting Started
 
