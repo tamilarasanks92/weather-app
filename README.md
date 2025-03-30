@@ -4,10 +4,8 @@ To run the application, please clone the application and add access key to varia
 
 To get the access keys, please create and log into the account in [WeatherStack](https://weatherstack.com).
 
-![Screenshot_1743353680](https://github.com/user-attachments/assets/259b8019-0c82-47e2-bf72-3943e3685ef4)
-![Screenshot_1743353648](https://github.com/user-attachments/assets/bc31f619-ec22-44a4-8312-52aab348ae2c)
-![Screenshot_1743353641](https://github.com/user-attachments/assets/d7b916b4-13ee-4ace-950d-44ace1b60228)
-
+![Screenshot_1743353680](https://github.com/user-attachments/assets/4ea252bd-1009-4d52-9910-32529d0d916c) ![Screenshot_1743353648](https://github.com/user-attachments/assets/4fd00888-0091-41f4-a748-266eae07e80a)
+![Screenshot_1743353641](https://github.com/user-attachments/assets/ff9e7a8e-c367-4e60-86e3-a32edc7890a4)
 
 
 # Getting Started
